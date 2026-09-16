@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+django_internal.sqlite3
+venv/
+env/
